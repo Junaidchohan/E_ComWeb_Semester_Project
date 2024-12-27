@@ -1,33 +1,9 @@
-# Flutter E-Commerce App Template
+# Flutter E-Commerce App Store
 
 <p align="center">
-  <img src="readme%20image/Build%20you%20shop%20app%20in%20days.png" alt="I can build my E-commerce Store" style="width: 500px; height: auto;">
-</p>
-
+  The FlutterShop develops an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for Android and iOS.
 <p align="center">
-  The FlutterShop develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flutter.
-</p>
-
-<!-- Buttons -->
-<p align="center">
-  <a href="https://cutt.ly/fefxdqE9" style="text-decoration: none;" target="_blank">
-    <img src="readme image/buy_now_btn.png" alt="Full UI/UX" style="margin-right: 32px; width: 170px; height: 50px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cutt.ly/1efxdynN" style="text-decoration: none;" target="_blank">
-    <img src="readme image/preview_btn.png" alt="View of UI" style="width: 136px; height: 50px;">
-  </a>
-</p>
-
-<!-- Device image -->
-</br >
-</br >
-<p align="center">
-  <img src="readme image/Device_frame.png" alt="Ecommerce app Home, product details page" style="width: 1100px; height: auto;">
-</p>
-</br >
-</br >
-
+ 
 This shop app comes with 100+ screens. These pages include Splash, Login, Signup, Home, Product, Search, Cart, Payment, Wallet, Order Tracking, and Order History. Additionally, all pages support both light and dark themes. I can Build a backend, such as Firebase or your custom API.
 
 <!-- Gif preview -->
@@ -39,21 +15,8 @@ This shop app comes with 100+ screens. These pages include Splash, Login, Signup
 </br >
 </br >
 
-### Well-organized project very easy to customize
 
-![FlutterShop E-commerce Template Project Structure](https://public-files.gumroad.com/v1kbfvdugf3urvw03qrqgmc5pl1c)
-
-<!-- Full preview -->
-
-
-### Loading is no longer boring [New update V1.1] [Doc](https://abu-anwar.gitbook.io/fluttershop-doc/custom-loading)
-
-The progress indicator that comes with Flutter, by default, is okay in most places, but not in every place. Especially when you build an e-commerce app. This is why we have created a custom loading effect that boosts your user engagement even during the loading process. This kind of loading is common in popular apps like YouTube and LinkedIn. It's a small detail, but it makes a big difference.
-![FlutterShop Custom loading](https://public-files.gumroad.com/qqnmt9nu5677thkq1961tlwj405u)
-
-## Screens on the FlutterShop E-commerce Template
-
-As mentioned, this kit contains 100+ nicely crafted minimal screens that cover everything you need!👇
+As mentioned, this kit contains 100+ nicely crafted minimal screens that cover everything!👇
 
 ### Onboarding
 
@@ -194,13 +157,4 @@ As mentioned, this kit contains 100+ nicely crafted minimal screens that cover e
 - Empty payment
 - Empty wallet
 
-and MORE!!!! 🤩
 
-</br >
-</br >
-<!-- Buttons -->
-<p align="center">
-  <a href="https://app.gumroad.com/checkout?product=uxznc&option=B3wWhE6QH46cfm31C7jEmQ%3D%3D&quantity=1&referrer=https://github.com" style="text-decoration: none;" target="_blank">
-    <img src="readme image/buy_now_btn.png" alt="Full template" style="margin-right: 32px; width: 170px; height: 50px;">
-  </a>
-</p>
